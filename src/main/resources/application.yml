@@ -1,0 +1,5 @@
+spring:
+    data:
+        mongodb:
+            uri : mongodb+srv://root:071656Ad@cluster0.zekgg7g.mongodb.net
+            database: food_app
